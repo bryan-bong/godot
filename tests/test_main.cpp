@@ -100,6 +100,7 @@
 #include "tests/scene/test_color_picker.h"
 #include "tests/scene/test_control.h"
 #include "tests/scene/test_curve.h"
+#include "tests/scene/test_font_variation.h" // Here
 #include "tests/scene/test_curve_2d.h"
 #include "tests/scene/test_curve_3d.h"
 #include "tests/scene/test_gradient.h"
